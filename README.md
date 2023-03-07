@@ -1,7 +1,7 @@
 # self-balancing-car
 This is a PID controlled self balancing car 
 
-**## Hardware**
+## **Hardware**
 
 •	Arduino nano
 •	MPU9250 9-Axis Gyro + Accelerator + Magnetometer Sensor
