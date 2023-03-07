@@ -2,11 +2,11 @@
 This is a PID controlled self balancing car 
 
 # **Hardware**
-
+```
 •	Arduino nano
 •	MPU9250 9-Axis Gyro + Accelerator + Magnetometer Sensor
 •	L298n Motor driver
-
+```
 # **MPU-9250 sensor module**
 
 MPU9250 is a multi-purpose sensor that is based on the Micro Electro Mechanical Systems architecture (MEMS). The MPU9250 is a 9 DOF real-time motion tracking device. It contains a 3D Gyroscope, 3D magnetometer, and 3D accelerometer. It has a very small high-performance IC that has a 16-bit analog-to-digital converter. This module also has an in-built temperature sensor. This module uses an I2C communication protocol for interfacing with the microcontrollers.
